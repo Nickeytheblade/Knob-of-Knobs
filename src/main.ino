@@ -1,4 +1,3 @@
-// Read the full tutorial at prusaprinters.
 #include <Arduino.h>
 #include <ClickEncoder.h>
 #include <TimerOne.h>
