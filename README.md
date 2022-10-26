@@ -13,4 +13,5 @@ The write up is good as well for their use case.
 ## https://www.thingiverse.com/thing:2810760
 
 
-![Alt text](Media-Knob/blob/main/IMG_20221025_180210583.jpg?raw=true "Title")
+!![Screenshot](IMG_20221025_180210583.jpg)
+
