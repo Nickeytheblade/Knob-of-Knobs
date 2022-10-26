@@ -13,5 +13,5 @@ The write up is good as well for their use case.
 ## https://www.thingiverse.com/thing:2810760
 
 
-!![Screenshot](IMG_20221025_180210583.jpg)
+![Screenshot](IMG_20221025_180210583.jpg)
 
