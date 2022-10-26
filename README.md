@@ -11,3 +11,6 @@ The write up is good as well for their use case.
 # Note: Use Analog inputs for encoder knob
 
 ## https://www.thingiverse.com/thing:2810760
+
+
+![Alt text](Nickeytheblade/Media-Knob/blob/main/IMG_20221025_180210583.jpg?raw=true "Title")
