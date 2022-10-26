@@ -8,4 +8,6 @@ Will take both UBS Micro and C style Pro Micro boards
 
 The write up is good as well for their use case.
 
+# Note: Use Analog 1,2,3 impots for encoder knob
+
 ## https://www.thingiverse.com/thing:2810760
