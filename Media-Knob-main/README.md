@@ -1,2 +1,2 @@
-# Platfromio Code
+# Platformio Code
 
